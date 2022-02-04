@@ -15,7 +15,7 @@ import com.sun.istack.NotNull;
 
 @Entity
 @Table(name = "tb_tema")
-public class Tema {
+public class Grupo{
 
 	@Id	
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
